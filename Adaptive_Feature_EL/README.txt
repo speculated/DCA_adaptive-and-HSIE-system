@@ -1,8 +1,10 @@
-Paper: Improving entity linking with two adaptive features, Frontiers of Information Technology & Electronic Engineering, 2022
+# Paper
+
+Improving entity linking with two adaptive features, Frontiers of Information Technology & Electronic Engineering, 2022
 
 Our code is based on the code from https://github.com/YoungXiyuan/DCA
 
-Data
+# Datasaet
 Download data from here and unzip to the main folder (i.e. your-path/DCA).
 
 The above data archive mainly contains the following resource files:
@@ -15,5 +17,5 @@ Wikipedia inLinks: Surface names of inlinks for a Wikipedia page (entity) are us
 
 Entity Description: Wikipedia page contents (entity description) are used by one of our base model -- Berkeley-CNN
 
-Installation
+# Installation
 Requirements: Python 3.6.5, Pytorch 1.6.0,Numpy 1.19.1,  CUDA 10.1 or 10.2
