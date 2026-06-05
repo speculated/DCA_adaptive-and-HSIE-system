@@ -1,5 +1,3 @@
-# Paper
-
 Improving entity linking with two adaptive features, Frontiers of Information Technology & Electronic Engineering, 2022
 
 Our code is based on the code from https://github.com/YoungXiyuan/DCA
