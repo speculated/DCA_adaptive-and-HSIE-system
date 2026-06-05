@@ -5,5 +5,5 @@ Improving entity linking with two adaptive features, Frontiers of Information Te
 # Papser II
 HSIE: Improving Named Entity Disambiguation with Hidden Semantic Information Extractor, The 14th International Conference on Machine Learning and Computing, 2022
 
-# Domain Extend
+# Domain Application
 ccks2019_el domain datasets
